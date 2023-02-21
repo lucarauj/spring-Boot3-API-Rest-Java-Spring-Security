@@ -131,14 +131,14 @@ insert into usuarios values(1, 'lukas@gmail.com', '$2a$12$RzI2dsvj41.9zAQj5p5Jje
 
 ### 📝 Anotações utilizadas no projeto (Parte II):
 
-- @RestControllerAdvice:
-- @ExceptionHandler:
-- @Service:
-- @Component:
-- @Configuration:
-- @EnableWebSecurity:
 - @Bean: serve para exportar uma classe para o Spring, fazendo com que ele consiga carregá-la e realize a injeção de dependência em outras classes;
-- @Value:
+- @Component: é um estereótipo genérico para qualquer componente gerenciado pelo Spring;
+- @Configuration: Anotação utilizada em cima dos métodos de uma classe, geralmente marcada com @Configuration, indicando que o Spring deve invocar aquele método e gerenciar o objeto retornado por ele;
+- @EnableWebSecurity: habilita os recursos de segurança em uma aplicação;
+- @ExceptionHandler: dá a um método a capacidade de tratar uma exceção quando ela for lançada;
+- @RestControllerAdvice: torna uma classe em um componente especializado em tratar exceções e o retorno dos métodos dessa classe deve ser inserido no corpo da resposta HTTP e convertidos para JSON;
+- @Service: faz anotações de classes na camada de serviço;
+- @Value: fornece uma maneira de injetar valores de propriedades nos componentes;
 
 <br>
 
