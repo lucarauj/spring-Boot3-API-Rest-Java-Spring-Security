@@ -5,7 +5,7 @@
 
 <p align="center"><img width="150px" src="https://github.com/lucarauj/assets/blob/main/ApiJavaSpring.png" /></p>
 
-<h3 align="left"> 👉 [LINK DO PROJETO BASE 🖱](https://github.com/lucarauj/spring-Boot3-API-Rest-Java) </h3>
+### 👉 [LINK DO PROJETO BASE 🖱](https://github.com/lucarauj/spring-Boot3-API-Rest-Java) </h3>
 
 <br>
 
