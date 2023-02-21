@@ -131,6 +131,15 @@ insert into usuarios values(1, 'lukas@gmail.com', '$2a$12$RzI2dsvj41.9zAQj5p5Jje
 
 ### 📝 Anotações utilizadas no projeto (Parte II):
 
+- @RestControllerAdvice:
+- @ExceptionHandler:
+- @Service:
+- @Component:
+- @Configuration:
+- @EnableWebSecurity:
+- @Bean: serve para exportar uma classe para o Spring, fazendo com que ele consiga carregá-la e realize a injeção de dependência em outras classes;
+- @Value:
+
 <br>
 
 ### 🚀 Principais tecnologias utilizadas no projeto:
