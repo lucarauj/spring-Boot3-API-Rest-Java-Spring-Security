@@ -1,0 +1,11 @@
+.mvn/
+.settings
+target/test-classes
+target/classes/med
+target/classes/META-INF
+.classpath
+.project
+HELP.md
+mvnw
+mvnw.cmd
+
